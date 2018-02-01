@@ -17,6 +17,9 @@
   "repository": "git+https://github.com/stetsmando/auth0-cordova.git",
   "keywords": [
     "auth0",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
     "cordova",
     "phonegap",
     "hybrid",
